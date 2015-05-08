@@ -1,0 +1,6 @@
+---
+name: Boolean
+author: IceDragon200 (Corey Powell) (mistdragon100@gmail.com)
+description: Boolean type for moon.
+require: _basalt.rb
+deps: []
